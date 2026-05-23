@@ -1,0 +1,5 @@
+ID,Text,Sentiment,Score
+1,i love the movie,Positive,0.5
+2,i didnt like it,Neutral,0.0
+3,it was horrible,Negative,-1.0
+4,Analyze,Neutral,0.0
